@@ -28,10 +28,13 @@ This project is a responsive restaurant website designed to provide users with e
    git clone https://github.com/Al-amin07/softnio
 
 2. **Navigate to the project directory**: 
+  ```bash
 cd softnio
 
 3. **Install dependencies**:
+  ```bash
 npm install
 
 4. **Run the development server**: 
+  ```bash
 npm run dev
