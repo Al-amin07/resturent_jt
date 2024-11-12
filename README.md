@@ -29,12 +29,12 @@ This project is a responsive restaurant website designed to provide users with e
 
 2. **Navigate to the project directory**: 
    ```bash
-cd softnio
+   cd softnio
 
 3. **Install dependencies**:
    ```bash
-npm install
+   npm install
 
 4. **Run the development server**: 
    ```bash
-npm run dev
+   npm run dev
